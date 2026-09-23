@@ -1,0 +1,38 @@
+{
+  "telegram_bot_token": "PASTE_YOUR_BOTFATHER_TOKEN_HERE",
+  "telegram_chat_id": "PASTE_YOUR_CHAT_ID_HERE",
+
+  "keywords": [
+    "medical writer",
+    "medical virtual assistant",
+    "health writer",
+    "health content writer",
+    "medical editor",
+    "remote writer",
+    "medical transcriber",
+    "medical data entry"
+  ],
+
+  "reliefweb_keywords": [
+    "medical writer",
+    "health writer",
+    "communications",
+    "content writer",
+    "editor",
+    "data entry",
+    "virtual assistant"
+  ],
+
+  "sources": {
+    "remoteok": true,
+    "arbeitnow": true,
+    "reliefweb": true,
+    "jobberman": true,
+    "myjobmag": true,
+    "naijaremotejobs": true
+  },
+
+  "reliefweb_limit_per_run": 20,
+
+  "notes": "Edit keywords above to change what the bot matches on. Keep phrases lowercase; matching is case-insensitive. reliefweb_keywords controls the WHO/UN/NGO search (ReliefWeb) separately since NGO job titles are phrased differently from Nigerian job boards."
+}
