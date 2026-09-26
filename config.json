@@ -33,7 +33,7 @@
   },
 
   "reliefweb_limit_per_run": 20,
-  "reliefweb_appname": "reliefweb-jobsearch-bot",
+  "reliefweb_appname": "UniversityofIbadanFelix-jobsearch-111x",
 
   "notes": "Edit keywords above to change what the bot matches on. Keep phrases lowercase; matching is case-insensitive. reliefweb_keywords controls the WHO/UN/NGO search (ReliefWeb) separately since NGO job titles are phrased differently from Nigerian job boards."
 }
